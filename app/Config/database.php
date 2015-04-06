@@ -73,7 +73,7 @@ class DATABASE_CONFIG {
 		'persistent' => false,
 		'host' => 'localhost',
 		'login' => 'root',
-		'password' => 'david99',
+		'password' => '',
 		'database' => 'polideportivos',
 		'prefix' => '',
 		'encoding' => 'utf8',
